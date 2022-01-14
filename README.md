@@ -7,9 +7,6 @@
 5. Metrics
 6. Production
 
-[Click on this link](#my-multi-word-header)
-
-### My Multi Word Header
 
 # General References for DS and ML
 https://machinelearningmastery.com
